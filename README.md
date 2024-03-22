@@ -62,6 +62,7 @@ let plural: [jedi] = [
 ## Grab the code - Detail View file
 You can add `emojis` by using the following key combination:<br>
 * Ctrl + Command + Space bar<br>
+![Screenshot 2024-03-22 at 6 34 44 AM](https://github.com/danielurra/Swift-UI-Journal-Entry-App-Detail-View/assets/51704179/49c01cb4-3df3-40ab-a790-d976d0743446)<br>
 ```swift
 //
 //  JournalEntryDannyDetailView.swift
