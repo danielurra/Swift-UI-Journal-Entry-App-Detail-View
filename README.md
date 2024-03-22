@@ -1,6 +1,6 @@
 # SwiftUI Journal Entry App Detail View
 Improving the view that is opened once you select the title of the `Journal Entry` you want to see<br>
-by adding the following threee things:
+by adding the following three things:
 * The title
 * The date
 * The raiting <br>
