@@ -35,12 +35,6 @@ struct JournalEntriesListView: View {
 ```
 ## Grab the code - jedi(class) file
 ```swift
-//
-//  jedi.swift
-//  JournalEntries
-//
-//  Created by Eusebio Taba on 3/20/24.
-
 
 import Foundation
 
@@ -70,12 +64,6 @@ You can add `emojis` by using the following key combination:<br>
 * Ctrl + Command + Space bar<br>
 ![Screenshot 2024-03-22 at 6 34 44 AM](https://github.com/danielurra/Swift-UI-Journal-Entry-App-Detail-View/assets/51704179/49c01cb4-3df3-40ab-a790-d976d0743446)<br>
 ```swift
-//
-//  JournalEntryDannyDetailView.swift
-//  JournalEntries
-//
-//  Created by Eusebio Taba on 3/22/24.
-//
 
 import SwiftUI
 
