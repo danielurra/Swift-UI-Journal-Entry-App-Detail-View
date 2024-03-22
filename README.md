@@ -1,5 +1,5 @@
 # SwiftUI Journal Entry App Detail View
-Improving the view that is opened once you select the title of the **Journal Entry** you want to see<br>
+Improving the view that is opened once you select the title of the `Journal Entry` you want to see<br>
 ![journalentrydetailview](https://github.com/danielurra/Swift-UI-Journal-Entry-App-Detail-View/assets/51704179/b10b6166-c5f2-4cfd-8095-e82f43b21900)
 
 ## Grab the code - List View file
